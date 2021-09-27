@@ -1,2 +1,2 @@
 # HELLO-WORLD
-trying to learn something new everyday
+Trying to learn something new everyday
